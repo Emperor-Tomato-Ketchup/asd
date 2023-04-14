@@ -1,24 +1,14 @@
-{
-  "cards": [
-    {
-      "question": "Melyik bolygó a legközelebb van a Naphoz?",
-      "answer": "Merkúr"
-    },
-    {
-      "question": "Melyik a legnagyobb bolygó a Naprendszerben?",
-      "answer": "Jupiter"
-    },
-    {
-      "question": "Melyik a legkisebb bolygó a Naprendszerben?",
-      "answer": "Plútó"
-    },
-    {
-      "question": "Milyen növényekkel készül a szarvasgomba ízesítésű ételek?",
-      "answer": "Gyümölcsfa levelével"
-    },
-    {
-      "question": "Melyik a legnagyobb emlős?",
-      "answer": "Kék bálna"
-    }
-  ]
-}
+[
+  {
+    "term": "Apple",
+    "answer": "A round fruit with a red or green skin and a white inside."
+  },
+  {
+    "term": "Banana",
+    "answer": "A long, curved fruit with a yellow skin and soft flesh."
+  },
+  {
+    "term": "Orange",
+    "answer": "A round fruit with a thick, orange skin and juicy flesh."
+  }
+]
