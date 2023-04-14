@@ -1,22 +1,21 @@
-[
-  {
-    "kerdes": "Az északi sarkon mindig hideg van.",
-    "valasz": true
-  },
-  {
-    "kerdes": "A kutya a világ legokosabb állata.",
-    "valasz": false
-  },
-  {
-    "kerdes": "Az egér egy rágcsáló.",
-    "valasz": true
-  },
-  {
-    "kerdes": "A Föld lapos.",
-    "valasz": false
-  },
-  {
-    "kerdes": "Az alma a világ legnépszerűbb gyümölcse.",
-    "valasz": false
+{
+    "cards": [
+      {
+        "kifejezes": "Mi a JavaScript?",
+        "definicio": "A JavaScript egy dinamikus, interpretált programozási nyelv."
+      },
+      {
+        "kifejezes": "Mi az a DOM?",
+        "definicio": "A DOM (Document Object Model) a HTML és XML dokumentumok struktúrájának programozható interfésze."
+      },
+      {
+        "kifejezes": "Mi az a closure?",
+        "definicio": "A closure egy funkció, mely lehetővé teszi, hogy egy belső funkció hozzáférjen a külső funkció változóihoz, még azután is, hogy a külső funkció lefutott."
+      },
+      {
+        "kifejezes": "Mi az az AJAX?",
+        "definicio": "Az AJAX (Asynchronous JavaScript and XML) egy technológia, amely lehetővé teszi, hogy dinamikus, aszinkron webalkalmazásokat hozzunk létre."
+      }
+    ]
   }
-]
+  
