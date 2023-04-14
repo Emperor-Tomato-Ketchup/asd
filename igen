@@ -1,0 +1,22 @@
+[
+  {
+    "kerdes": "aaaaa",
+    "valasz": false
+  },
+  {
+    "kerdes": "aaaa",
+    "valasz": false
+  },
+  {
+    "kerdes": "aaa",
+    "valasz": true
+  },
+  {
+    "kerdes": "aa",
+    "valasz": false
+  },
+  {
+    "kerdes": "a",
+    "valasz": true
+  }
+]
