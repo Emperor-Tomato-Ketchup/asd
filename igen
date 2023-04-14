@@ -1,21 +1,27 @@
-{
-    "cards": [
-      {
-        "kifejezes": "Mi a JavaScript?",
-        "definicio": "A JavaScript egy dinamikus, interpretált programozási nyelv."
-      },
-      {
-        "kifejezes": "Mi az a DOM?",
-        "definicio": "A DOM (Document Object Model) a HTML és XML dokumentumok struktúrájának programozható interfésze."
-      },
-      {
-        "kifejezes": "Mi az a closure?",
-        "definicio": "A closure egy funkció, mely lehetővé teszi, hogy egy belső funkció hozzáférjen a külső funkció változóihoz, még azután is, hogy a külső funkció lefutott."
-      },
-      {
-        "kifejezes": "Mi az az AJAX?",
-        "definicio": "Az AJAX (Asynchronous JavaScript and XML) egy technológia, amely lehetővé teszi, hogy dinamikus, aszinkron webalkalmazásokat hozzunk létre."
-      }
-    ]
+[
+  {
+    "id": 1,
+    "fogalom": "HTML",
+    "definicio": "A Hypertext Markup Language (HTML) egy szabványosított leíró nyelv a weboldalak létrehozásához."
+  },
+  {
+    "id": 2,
+    "fogalom": "CSS",
+    "definicio": "A Cascading Style Sheets (CSS) egy stílusleíró nyelv, amely segít az elemek megjelenítésének szabályozásában a weboldalon."
+  },
+  {
+    "id": 3,
+    "fogalom": "JavaScript",
+    "definicio": "A JavaScript egy programozási nyelv, amelyet a weboldalak interaktivitásának megvalósítására használnak."
+  },
+  {
+    "id": 4,
+    "fogalom": "API",
+    "definicio": "Az Application Programming Interface (API) egy szoftveres interfész, amely lehetővé teszi két alkalmazás kommunikációját."
+  },
+  {
+    "id": 5,
+    "fogalom": "REST",
+    "definicio": "A Representational State Transfer (REST) egy szoftvertervezési stílus, amely alapvetően az internetes kommunikációra épül."
   }
-  
+]
