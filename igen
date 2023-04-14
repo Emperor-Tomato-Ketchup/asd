@@ -1,22 +1,22 @@
 [
   {
-    "kerdes": "aaaaa",
-    "valasz": false
-  },
-  {
-    "kerdes": "aaaa",
-    "valasz": false
-  },
-  {
-    "kerdes": "aaa",
+    "kerdes": "Az északi sarkon mindig hideg van.",
     "valasz": true
   },
   {
-    "kerdes": "aa",
+    "kerdes": "A kutya a világ legokosabb állata.",
     "valasz": false
   },
   {
-    "kerdes": "a",
+    "kerdes": "Az egér egy rágcsáló.",
     "valasz": true
+  },
+  {
+    "kerdes": "A Föld lapos.",
+    "valasz": false
+  },
+  {
+    "kerdes": "Az alma a világ legnépszerűbb gyümölcse.",
+    "valasz": false
   }
 ]
