@@ -1,14 +1,23 @@
 [
   {
-    "term": "Apple",
-    "answer": "A round fruit with a red or green skin and a white inside."
-  },
-  {
-    "term": "Banana",
-    "answer": "A long, curved fruit with a yellow skin and soft flesh."
-  },
-  {
-    "term": "Orange",
-    "answer": "A round fruit with a thick, orange skin and juicy flesh."
-  }
+"term": "Algoritmus",
+"answer": "Egy olyan véges számítási eljárás, amely megoldja a problémát."
+},
+{
+"term": "Adatbázis",
+"answer": "Egy strukturált adatokat tároló rendszer."
+},
+{
+"term": "Programozás",
+"answer": "Az a folyamat, amely során az emberi értelem számítógép által értelmezhető utasításokká formálódik."
+},
+{
+"term": "Operációs rendszer",
+"answer": "Olyan programok összessége, amelyek kezelik a számítógép hardverét és szolgáltatásokat nyújtanak a felhasználóknak."
+},
+{
+"term": "Adatbányászat",
+"answer": "Az adatok feltárására és elemzésére irányuló statisztikai és matematikai eljárások alkalmazása."
+}
 ]
+}
