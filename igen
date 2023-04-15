@@ -1,5 +1,5 @@
 {
-[
+    "kifejezesek": [
     {"term": "autó", "answer": "Egy jármű, amely lehetővé teszi az emberek szállítását."},
     {"term": "televízió", "answer": "Egy eszköz, amely lehetővé teszi a videó- és audiotartalmak megjelenítését."},
     {"term": "számítógép", "answer": "Egy eszköz, amely lehetővé teszi az adatok feldolgozását és tárolását."},
@@ -17,5 +17,5 @@
     {"term": "kutya", "answer": "Egy háziállat, amely hűséges és hasznos társ az emberek számára."},
     {"term": "szerelem", "answer": "Az érzelmek és érzések összetett hálózata, amelyet az emberek éreznek egymás iránt."},
     {"term": "barát", "answer": "Egy személy, akivel szemben megvan a kölcsönös bizalom és támogatás."}
-]
+ ]
 }
