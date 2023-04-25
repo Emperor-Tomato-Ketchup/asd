@@ -1,0 +1,22 @@
+[
+    {"kerdes": "Hogyan hozhatok létre egy változót Pythonban?", "valasz": "A változó létrehozása egyszerű Pythonban. Csak adunk egy nevet a változónak, és értéket adunk neki az egyenlőségjel segítségével. Példa: x = 10"},
+    {"kerdes": "Hogyan lehet ellenőrizni egy változó típusát Pythonban?", "valasz": "Használhatjuk a type() függvényt a változó típusának meghatározásához. Példa: print(type(x))"},
+    {"kerdes": "Hogyan tudok kiírni valamit a képernyőre Pythonban?", "valasz": "Használhatjuk a print() függvényt a szöveg kiírásához a képernyőre. Példa: print('Hello, World!')"},
+    {"kerdes": "Hogyan tudok bemeneti adatot kérni a felhasználótól Pythonban?", "valasz": "Használhatjuk a input() függvényt a bemeneti adatok kéréséhez a felhasználótól. Példa: nev = input('Kérem, adja meg a nevét: ')"},
+    {"kerdes": "Hogyan tudok kommentet írni a kódomhoz Pythonban?", "valasz": "A kommenteket a # karakterrel kezdjük. Az összes karakter, amely a # karaktertől a sor végéig tart, kommentnek számít. Példa: # Ez egy komment"},
+    {"kerdes": "Hogyan tudok összeadni két számot Pythonban?", "valasz": "Az összeadás a + operátorral végezhető el Pythonban. Példa: x = 5 + 3"},
+    {"kerdes": "Hogyan tudok kivonni két számot Pythonban?", "valasz": "A kivonás a - operátorral végezhető el Pythonban. Példa: x = 5 - 3"},
+    {"kerdes": "Hogyan tudok szorozni két számot Pythonban?", "valasz": "A szorzás a * operátorral végezhető el Pythonban. Példa: x = 5 * 3"},
+    {"kerdes": "Hogyan tudok osztani két számot Pythonban?", "valasz": "Az osztás a / operátorral végezhető el Pythonban. Példa: x = 5 / 3"},
+    {"kerdes": "Hogyan tudok egész osztást végezni két számon Pythonban?", "valasz": "Az egész osztás a // operátorral végezhető el Pythonban. Példa: x = 5 // 3"},
+    {"kerdes": "Hogyan tudok maradékos osztást végezni két számon Pythonban?", "valasz": "A maradékos osztás a % operátorral végezhető el Pythonban. Példa: x = 5 % 3"},
+    {"kerdes": "Hogyan tudok hatványozni egy számot Pythonban?", "valasz": "A hatványozás a ** operátorral végezhető el Pythonban. Példa: x = 5 ** 3"},
+    {"kerdes": "Hogyan tudok összefűzni két szöveget Pythonban?", "valasz": "Az összefűzéshez használhatjuk a + operátort, vagy a két szöveget egybeírhatjuk. Példa: nev = 'Lakatos' + ' ' + 'Gyula'"},
+    {"kerdes": "Hogyan tudok egy karakterláncot kisbetűssé alakítani Pythonban?", "valasz": "A lower() függvénnyel alakíthatjuk át a karakterláncot kisbetűssé. Példa: nev = 'LAKATOS GYULA'.lower()"},
+    {"kerdes": "Hogyan tudok egy karakterláncot nagybetűssé alakítani Pythonban?", "valasz": "Az upper() függvénnyel alakíthatjuk át a karakterláncot nagybetűssé. Példa: nev = 'lakatos gyula'.upper()"},
+    {"kerdes": "Hogyan tudom megfordítani egy karakterláncot Pythonban?", "valasz": "A karakterláncot megfordíthatjuk a [::-1] szintaxis használatával. Példa: nev = 'Lakatos Gyula'[::-1]"},
+    {"kerdes": "Hogyan tudok egy listát létrehozni Pythonban?", "valasz": "A lista létrehozása egyszerű Pythonban. Csak adunk egy nevet a listának, és értékeket adunk neki a szögletes zárójelek között. Példa: en_listam = [1, 2, 3, 4, 5]"},
+    {"kerdes": "Hogyan tudom hozzáadni egy elemet egy listához Pythonban?", "valasz": "Az elem hozzáadása a append() függvénnyel végezhető el. Példa: en_listam.append(6)"},
+    {"kerdes": "Hogyan tudom kinyerni egy elemet egy listából Pythonban?", "valasz": "Az elem kinyerése a szögletes zárójelekkel és az elem indexével végezhető el. A lista első eleme az indexe 0. Példa: x = en_listam[0]"},
+    {"kerdes": "Hogyan tudom megszámolni, hogy hányszor fordul elő egy elem egy listában Pythonban?", "valasz": "Az elem előfordulásainak számát a count() függvénnyel lehet megszámolni. Példa: megszamlalas = en_listam.count(2)"}
+]
